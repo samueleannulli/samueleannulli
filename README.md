@@ -1,4 +1,3 @@
-// ### Hi there 👋
 <p>
   <h1 align="center"><b>Hi there, I'm Samuele 👋</h1>
 </p>
@@ -24,6 +23,9 @@
 - [UK.2023] Integration of Honeywell, Tridium, Centraline and Trend BMS systems based on the Niagara4 framework into data management solutions such as “Skyspark”  or  other  equivalent  “Fault  Detection  and  Diagnostics analytics” solutions. 
 - [UK.2022] Design and development of software modules on the Niagara4 platform for real-time data analysis, purchase and sale of gas and electricity through the integration of data from international territorial systems.
 - [IT.2018-2020] Design and development of an architecture on the Niagara4 platform for the integration of third-party people counting systems and a fullstack architecture (backend, frontend, app), for the collection and analysis of data from water and gas meters.
+
+####  📚 Computer and telecommunications systems design technologies
+
 
 <!--
 **samueleannulli/samueleannulli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
