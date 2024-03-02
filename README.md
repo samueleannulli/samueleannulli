@@ -12,18 +12,19 @@
 <br />
   
 ## 🔭 I’m currently working on ...
-- @AMZL, Italy: Prototyping of  activities  aimed  at  saving  energy  with  machine  learning techniques. 
-- @AMZL, Italy: Design  and  development  of  REST  API  services  for  data  collection  and processing in BMS Niagara type systems and AWS services. 
+- @AMZL, Italy: Prototyping of activities aimed at saving energy with machine learning techniques. 
+- @AMZL, Italy: Design and development of REST API services for data collection and processing in BMS Niagara systems and AWS services. 
 
 
 
 ## 👩‍💻 Software Metrics & Analytics ...
 • @Enerza Solutions, London UK: Design, development and management of technological solutions such as BMS Niagara4 in the AWS cloud. 
-• @Enerza Solutions, London UK: Integration of Honeywell, Tridium, Centraline and Trend BMS systems based on the Niagara4 framework into data management solutions such as 
-“Skyspark”  or  other  equivalent  “Fault  Detection  and  Diagnostics analytics” solutions. 
-- [CH.2024] Progettazione e sviluppo di moduli applicativi software per la customizzazione di sistemi Trend Niagara4 remoti.
-- [Rust] Rogulike da zero: [Imparare Rust scrivendo un roguelike](https://github.com/ProfAndreaPollini/roguelike-rust-macroquad-noname)
-- [Rust] [Rogulike da zero con Marcoquad e bevy_ecs](https://github.com/ProfAndreaPollini/roguelike-rust-bevy_ecs-macroquad-noname)
+• @Enerza Solutions, London UK: Integration of Honeywell, Tridium, Centraline and Trend BMS systems based on the Niagara4 framework into data management solutions such as “Skyspark”  or  other  equivalent  “Fault  Detection  and  Diagnostics analytics” solutions. 
+- [CH.2024] Design and development of software application modules for the customization of remote Trend Niagara4 systems.
+- [AU.2024] Design and development of a solution for data collection (from Niagara4 BMS systems), analysis, energy accounting, production and automated sending of electronic invoices.
+- [UK.2023] Design and development of a backend service for the integration of Niagara4 BMS systems, data collection on AWS Timestream, analysis and optimization of energy consumption using AWS IoT SiteWise.
+- [UK.2022] Design and development of software modules on the Niagara4 platform for real-time data analysis, purchase and sale of gas and electricity through the integration of data from international territorial systems.
+- [IT.2018-2020] Design and development of an architecture on the Niagara4 platform for the integration of third-party people counting systems and a fullstack architecture (backend, frontend, app), for the collection and analysis of data from water and gas meters.
 
 <!--
 **samueleannulli/samueleannulli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
