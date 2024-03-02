@@ -1,4 +1,7 @@
 ### Hi there 👋
+<p>
+  <h1 align="center"><b>Hi there, I'm Samuele 👋</h1>
+</p>
 
 <!--
 **samueleannulli/samueleannulli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
