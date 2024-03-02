@@ -13,7 +13,7 @@
 ## 🔭 I’m currently working on ...
 - @AMZL, Italy: Prototyping of activities aimed at saving energy with machine learning techniques. 
 - @AMZL, Italy: Design and development of REST API services for data collection and processing in BMS Niagara systems and AWS services. 
-- @Enerza Solutions, London UK: Design, development and management of technological solutions such as BMS Niagara4 in the AWS cloud. 
+- @E.Solutions, London UK: Design, development and management of technological solutions such as BMS Niagara4 in the AWS cloud. 
 
 
 ## 👩‍💻 Software Metrics & Analytics ...
