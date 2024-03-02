@@ -12,8 +12,8 @@
 <br />
   
 ## 🔭 I’m currently working on ...
-• @AMZL, Italy: Prototyping of  activities  aimed  at  saving  energy  with  machine  learning techniques. 
-• @AMZL, Italy: Design  and  development  of  REST  API  services  for  data  collection  and processing in BMS Niagara type systems and AWS services. 
+- @AMZL, Italy: Prototyping of  activities  aimed  at  saving  energy  with  machine  learning techniques. 
+- @AMZL, Italy: Design  and  development  of  REST  API  services  for  data  collection  and processing in BMS Niagara type systems and AWS services. 
 
 
 
