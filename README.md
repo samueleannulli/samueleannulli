@@ -7,6 +7,9 @@
 <a href="https://www.linkedin.com/in/samuele-annulli-30961030/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Repl" />
 </a>&nbsp;
+<a href="https://www.tridium.com/us/en/purchase/developer-program">
+<img src="https://img.shields.io/badge/Niagara 4-white?style=flat&logo=niagara4&labelColor=blue" alt="Repl" />
+</a>&nbsp;  
 </p>
 <br />
   
