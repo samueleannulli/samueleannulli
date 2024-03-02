@@ -3,8 +3,7 @@
   <h1 align="center"><b>Hi there, I'm Samuele 👋</h1>
 </p>
 
-## 📫 Dove trovarmi:
-
+## 📫 Contact me:
 <p align="center">
 <a href="https://www.linkedin.com/in/samuele-annulli-30961030/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Repl" />
